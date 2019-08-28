@@ -55,7 +55,7 @@ objects:
       name: ${APPLICATION_NAME}
     name: ${APPLICATION_NAME}
   spec:
-    host: ${APPLICATION_NAME}.apps.<GUID>.open.redhat.com
+    host: ${APPLICATION_NAME}.apps.seprol-9f03.open.redhat.com
     port:
       targetPort: 8080
     to:
